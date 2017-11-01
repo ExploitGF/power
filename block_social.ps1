@@ -82,6 +82,8 @@ $entries = @{
     'tvigle.ru' = "127.0.0.1"
     'simp-fan.ru' = "127.0.0.1"
     'o1plus1.video' = "127.0.0.1"
+    'europaplus.ru' = "127.0.0.1"
+    'radiovolna.net' = "127.0.0.1"
     'ru.tv' = "127.0.0.1"
 };
 setHostEntries($entries)
