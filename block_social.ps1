@@ -72,5 +72,16 @@ $entries = @{
     'shararam.ru' = "127.0.0.1"
     'kindernet.ru' = "127.0.0.1"
     'classmates.com' = "127.0.0.1"
+    'ivi.ru' = "127.0.0.1"
+    'megogo.net' = "127.0.0.1"
+    'baskino.co' = "127.0.0.1"
+    'hdkinohit.net' = "127.0.0.1"
+    'kinokrad.co' = "127.0.0.1"
+    'okino.tv' = "127.0.0.1"
+    'bobfilm.club' = "127.0.0.1"
+    'tvigle.ru' = "127.0.0.1"
+    'simp-fan.ru' = "127.0.0.1"
+    'o1plus1.video' = "127.0.0.1"
+    'ru.tv' = "127.0.0.1"
 };
 setHostEntries($entries)
